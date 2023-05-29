@@ -1,0 +1,144 @@
+
+
+1
+Book1
+A1
+P1
+2018
+A
+3
+
+
+2
+Book2
+A3
+p2
+2017
+B
+4
+
+
+3
+Book3
+a3
+P3
+2021
+C
+2
+
+
+4
+Book4
+a4
+p4
+2013
+A
+5
+
+
+5
+book5
+a5
+p5
+2016
+D
+3
+
+
+6
+book6
+a6
+p4
+2016
+B
+1
+
+
+7
+bOoK7
+A7
+p7
+2014
+A
+4
+
+
+9
+book9
+a9
+p4
+2017
+D
+2
+
+
+9781449355739
+Programming in Python
+Mark Lutz
+O'Reilly
+2014
+A
+3
+
+
+9789351198147
+Learning With Python
+Allen Dowry
+Dreamtech Press
+2015
+B
+2
+
+
+9789389328424
+Python In-Deepth
+Ahidjo Ayeva
+BPB publications
+2020
+C
+3
+
+
+9788194401872
+Python for Developers
+Mohit Raj
+BPB Publisher
+2019
+A
+1
+
+
+9789386551931
+Machine Learning with python
+Abhishek Vijayvargia
+BPB publications
+2018
+D
+4
+
+
+9780321680563
+Programming in python 3
+Mark Summerfield
+Pearson Addison-Wesley Professional
+2009
+B
+2
+
+
+9781617291999
+Java 8 In Action
+Raoul-Gabriel Urma
+Manning Publications
+2014
+A
+4
+
+
+9781118903438
+Beginning JavaScript
+Jeremy McPeak
+Wiley
+2015
+C
+4
